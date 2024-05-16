@@ -1,15 +1,15 @@
 ### Hi there 👋, my name is kyrillos
 Highly skilled and detail-oriented full stack web developer with expertise in designing and developing responsive and user-friendly websites. Proficient in front-end development technologies including HTML5, CSS, SCSS, JavaScript, jQuery, and the Angular framework. Experienced in utilizing backend technologies such as Asp.net Web API, MVC, C#, LINQ, and Dapper, with a strong command of SQL databases
 
-<img src='https://github.com/Kyrillousafandy/Kyrillousafandy/blob/master/html-5.svg' alt='html' height='40'>]
-<img src='https://github.com/Kyrillousafandy/Kyrillousafandy/blob/master/css3.svg' alt='css' height='40'>]
-<img src='' alt='' height='40'>]
-<img src='' alt='' height='40'>]
-<img src='' alt='' height='40'>]
-<img src='' alt='' height='40'>]
-<img src='' alt='' height='40'>]
-<img src='' alt='' height='40'>]
-<img src='' alt='' height='40'>]
+<img src='https://github.com/Kyrillousafandy/Kyrillousafandy/blob/master/html-5.svg' alt='html' height='40'>
+<img src='https://github.com/Kyrillousafandy/Kyrillousafandy/blob/master/css3.svg' alt='css' height='40'>
+<img src='https://github.com/Kyrillousafandy/Kyrillousafandy/blob/master/scss.svg' alt='scss' height='40'>
+<img src='https://github.com/Kyrillousafandy/Kyrillousafandy/blob/master/-angular.svg' alt='Angular' height='40'>
+<img src='https://github.com/Kyrillousafandy/Kyrillousafandy/blob/master/bootstrap.svg' alt='Bootstrap' height='40'>
+<img src='' alt='' height='40'>
+<img src='' alt='' height='40'>
+<img src='' alt='' height='40'>
+<img src='' alt='' height='40'>
 HTML5 / CSS3 / Bootstrap / JS / jQuery / SCSS / Angular / C# /ASP.NET MVC / ASP .NET Web API / ASP .NET SignalR / Entity Framework
 
 - 📫 How to reach me: WhatsApp : 01027436681 
