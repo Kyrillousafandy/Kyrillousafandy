@@ -6,11 +6,12 @@ Highly skilled and detail-oriented full stack web developer with expertise in de
 <img src='https://github.com/Kyrillousafandy/Kyrillousafandy/blob/master/scss.svg' alt='scss' height='40'>
 <img src='https://github.com/Kyrillousafandy/Kyrillousafandy/blob/master/-angular.svg' alt='Angular' height='40'>
 <img src='https://github.com/Kyrillousafandy/Kyrillousafandy/blob/master/bootstrap.svg' alt='Bootstrap' height='40'>
-<img src='' alt='' height='40'>
-<img src='' alt='' height='40'>
-<img src='' alt='' height='40'>
-<img src='' alt='' height='40'>
-HTML5 / CSS3 / Bootstrap / JS / jQuery / SCSS / Angular / C# /ASP.NET MVC / ASP .NET Web API / ASP .NET SignalR / Entity Framework
+<img src='https://github.com/Kyrillousafandy/Kyrillousafandy/blob/master/c-sharp-c.svg' alt='' height='40'>
+<img src='' alt='https://github.com/Kyrillousafandy/Kyrillousafandy/blob/master/dot-net.svg' height='40'>
+<img src='https://github.com/Kyrillousafandy/Kyrillousafandy/blob/master/javascript.svg' alt='' height='40'>
+<img src='https://github.com/Kyrillousafandy/Kyrillousafandy/blob/master/jquery.svg' alt='' height='40'>
+<img src='https://github.com/Kyrillousafandy/Kyrillousafandy/blob/master/sql-database-generic.svg' alt='' height='40'>
+
 
 - 📫 How to reach me: WhatsApp : 01027436681 
 
