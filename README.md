@@ -1,4 +1,6 @@
 ### Hi there 👋
+## My name is kyrillos
+<p style = "color👱">Highly skilled and detail-oriented full stack web developer with expertise in designing and developing responsive and user-friendly websites. Proficient in front-end development technologies including HTML5, CSS, SCSS, JavaScript, jQuery, and the Angular framework. Experienced in utilizing backend technologies such as Asp.net Web API, MVC, C#, LINQ, and Dapper, with a strong command of SQL databases</p>>
 
 <!--
 **Kyrillousafandy/Kyrillousafandy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
