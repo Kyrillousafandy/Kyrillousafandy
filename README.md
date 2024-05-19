@@ -16,7 +16,7 @@ Highly skilled and detail-oriented full stack web developer with expertise in de
 - 📫 How to reach me: WhatsApp : 01027436681 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'> ](https://github.com/https://github.com/Kyrillousafandy) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'> ](https://github.com/Kyrillousafandy) 
  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kyrillos-maurice//)  
 
 
